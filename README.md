@@ -1,4 +1,4 @@
-# 🛒 Projeto de Análise de Dados de Rede de Varejo 📊
+# 🛒 Projeto de Análise de Dados Rede de Varejo 📊
 
 ## 📖 Descrição
 
